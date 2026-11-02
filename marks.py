@@ -1,5 +1,5 @@
-printf("Enter two numbers:"))
-num1=(input("num1 is:"))
-num2=(input("num2 is:"))
+print("Enter two numbers:")
+num1=int(input("num1 is:"))
+num2=int(input("num2 is:"))
 add=num1+num2
-printf(add)
+print( add)
